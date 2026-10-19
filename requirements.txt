@@ -1,0 +1,8 @@
+
+pandas
+scikit-learn
+ucimlrepo
+joblib
+fastapi
+uvicorn[standard]
+tldextract
